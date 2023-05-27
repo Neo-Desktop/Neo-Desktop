@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+
+<br />
+<br />
+
+<p align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=neobear&cover_image=true&theme=default&show_offline=false&background_color=00000000&interchange=false&bar_color_cover=false&bar_color=d12ed1)](https://spotify-github-profile.vercel.app/api/view?uid=neobear&redirect=true)
+
+</p>
 
 <!--
 **Neo-Desktop/Neo-Desktop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
